@@ -50,7 +50,7 @@ Open to collaborations on:
     🥷 “To know your enemy, you must become your enemy.” — Sun Tzu
     (Essential wisdom — on and off the network)
 
-🚀 Projects (Available on GitHub)
+🚀 Projects
 
 🛡️ Linux Hardening Suite
 
