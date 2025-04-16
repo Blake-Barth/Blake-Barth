@@ -1,38 +1,95 @@
-<!--
-**Blake-Barth/Blake-Barth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+👋 Hey there, I’m Blake Barth
 
-# 👋 Hey there, I’m Blake Barth
+Welcome to my GitHub profile! I'm a security-focused tech enthusiast with a passion for automating the hard stuff and diving deep into networking and Linux internals.
+📫 How to Reach Me
 
-Welcome to my GitHub profile! I'm a security-focused tech enthusiast with a passion for automating the hard stuff and diving deep into networking and Linux internals.  
+    📧 Email: blakebarth@proton.me
 
----
+    💼 LinkedIn: linkedin.com/in/Blake-Barth
 
-## 📫 How to Reach Me
-- Email: **blakebarth@proton.me**  
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blake-barth/)
+🔧 Currently Working On
 
----
+📡 Pursuing the CCNA (Cisco Certified Network Associate) certification
 
-## 🔧 Currently Working On
-A **Linux hardening script suite** — a collection of bash scripts aimed at strengthening Linux systems against common threats. Focused on automation, auditability, and ease of use.
+    Building a strong foundation in networking fundamentals and protocols
 
-## 📚 Currently Learning
-Pursuing the **CCNA (Cisco Certified Network Associate)** certification — digging into networking fundamentals, protocols, and hands-on labs.
+    Applying what I learn by configuring simulated networks in Cisco Packet Tracer
 
-## 📜 Certifications
-- ✅ **CompTIA Security+**
+    Documenting everything to improve reproducibility and understanding
 
-## 💬 Ask Me About
-- Linux administration and hardening  
-- Bash scripting and automation  
-- Cybersecurity fundamentals  
+📚 Also Learning
 
-## 🤝 I’m Looking For Help With
-Open to **collaborations** on security tools, infrastructure automation, or anything you think aligns with my interests!
+    Linux internals
 
----
+    Real-world security automation tools
 
-> 🥷 “To know your enemy, you must become your enemy.” — Sun Tzu  
-> *(Essential wisdom — on and off the network)*
+    How to break stuff... and then fix it 😄
 
+📜 Certifications
+
+    ✅ CompTIA Security+
+
+💬 Ask Me About
+
+    Linux administration and hardening
+
+    Bash scripting and automation
+
+    Cybersecurity fundamentals
+
+🤝 I’m Looking For Help With
+
+Open to collaborations on:
+
+    Security tools
+
+    Infrastructure automation
+
+    Projects that mix networking, Linux, and security
+
+    🥷 “To know your enemy, you must become your enemy.” — Sun Tzu
+    (Essential wisdom — on and off the network)
+
+🚀 Projects (Available on GitHub)
+🛡️ Linux Hardening Suite
+
+A collection of Python scripts designed to improve Lynis audit scores and lock down Linux servers (tested on Linode).
+Includes:
+
+    Antivirus setup
+
+    SSH and sysctl hardening
+
+    GRUB protection
+
+    Kernel module restrictions
+
+    Firewall configuration (UFW)
+
+    File permission lockdown
+
+🕹️ NEAT AI Agent for Swing Copters
+
+An AI agent built with NEAT (NeuroEvolution of Augmenting Topologies) in Python.
+Learns to play Swing Copters on its own — a fun dive into machine learning through games.
+🎮 G.A.M.E. (Capstone Project)
+
+A JavaScript-based game developed during a collaborative FSU capstone project.
+Focused on:
+
+    Game mechanics
+
+    Team coordination
+
+    Endurance under deadlines
+
+🧰 Unix Tools Scripts
+
+A set of Bash and Perl utilities created as part of a Unix Tools course.
+Includes:
+
+    File management scripts
+
+    Text processing tools
+
+    Custom calendar, phonebook, and plotting scripts
