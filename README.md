@@ -1,3 +1,42 @@
+# 👋 Hey there, I’m Blake Barth
+
+Welcome to my GitHub profile! I'm a **Networking and IT enthusiast** with a passion for automating the hard stuff and diving deep into **Linux internals** and **security**.
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [blakebarth@proton.me](mailto:blakebarth@proton.me)  
+- 💼 LinkedIn: [linkedin.com/in/Blake-Barth](https://linkedin.com/in/Blake-Barth)
+
+---
+
+## 🔧 Currently Working On
+
+### 📡 Pursuing the CCNA (Cisco Certified Network Associate)
+
+- Building a strong foundation in networking fundamentals and protocols  
+- Configuring simulated networks in Cisco Packet Tracer  
+- Documenting everything for reproducibility and better understanding  
+
+---
+
+## 📜 Certifications
+
+- ✅ CompTIA Security+  
+
+---
+
+## 💬 Ask Me About
+
+- Networking protocols  
+- Linux administration and hardening  
+- Bash scripting and automation  
+- Cybersecurity fundamentals  
+- Machine learning  
+
+---
+
 ## 🚀 Projects
 
 ### 🛡️ [Linux Hardening Suite](https://github.com/Blake-Barth/Linux-Hardening-Suite)
@@ -48,10 +87,17 @@ Includes:
 
 ---
 
-### 🌐 [Campus Network Config](https://github.com/Blake-Barth/Campus-Network-Config)
+### 🌐 [Campus Network Config](https://github.com/Blake-Barth/Campus-Network-Config) *(In Progress)*
 
-Cisco Packet Tracer–based simulations for configuring a small campus network.
+**Work in progress**: Cisco Packet Tracer–based simulations for configuring a small campus network.
+
+Will include:
 
 - Switch and router configurations  
 - VLAN setup and trunking  
 - Static and dynamic routing  
+
+---
+
+> 🥷 “To know your enemy, you must become your enemy.” — *Sun Tzu*  
+> Essential wisdom — on and off the network.
