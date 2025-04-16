@@ -1,96 +1,105 @@
-👋 Hey there, I’m Blake Barth
+# 👋 Hey there, I’m Blake Barth
 
-Welcome to my GitHub profile! I'm a security-focused tech enthusiast with a passion for automating the hard stuff and diving deep into networking and Linux internals.
-📫 How to Reach Me
+Welcome to my GitHub profile! I'm a **security-focused tech enthusiast** with a passion for automating the hard stuff and diving deep into networking and Linux internals.
 
-    📧 Email: blakebarth@proton.me
+---
 
-    💼 LinkedIn: linkedin.com/in/Blake-Barth
+## 📫 How to Reach Me
 
-🔧 Currently Working On
+- 📧 Email: [blakebarth@proton.me](mailto:blakebarth@proton.me)  
+- 💼 LinkedIn: [linkedin.com/in/Blake-Barth](https://linkedin.com/in/Blake-Barth)
 
-📡 Pursuing the CCNA (Cisco Certified Network Associate) certification
+---
 
-    Building a strong foundation in networking fundamentals and protocols
+## 🔧 Currently Working On
 
-    Applying what I learn by configuring simulated networks in Cisco Packet Tracer
+### 📡 Pursuing the CCNA (Cisco Certified Network Associate)
 
-    Documenting everything to improve reproducibility and understanding
+- Building a strong foundation in networking fundamentals and protocols  
+- Configuring simulated networks in **Cisco Packet Tracer**  
+- Documenting everything for reproducibility and better understanding  
 
-📚 Also Learning
+---
 
-    Linux internals
+## 📚 Also Learning
 
-    Real-world security automation tools
+- Linux internals  
+- Real-world security automation tools  
+- How to break stuff... and then fix it 😄  
 
-    How to break stuff... and then fix it 😄
+---
 
-📜 Certifications
+## 📜 Certifications
 
-    ✅ CompTIA Security+
+- ✅ CompTIA Security+
 
-💬 Ask Me About
+---
 
-    Linux administration and hardening
+## 💬 Ask Me About
 
-    Bash scripting and automation
+- Linux administration and hardening  
+- Bash scripting and automation  
+- Cybersecurity fundamentals  
 
-    Cybersecurity fundamentals
+---
 
-🤝 I’m Looking For Help With
+## 🤝 I’m Looking For Help With
 
 Open to collaborations on:
 
-    Security tools
+- Security tools  
+- Infrastructure automation  
+- Projects that mix networking, Linux, and security  
 
-    Infrastructure automation
+> 🥷 _“To know your enemy, you must become your enemy.”_ — **Sun Tzu**  
+> _Essential wisdom — on and off the network._
 
-    Projects that mix networking, Linux, and security
+---
 
-    🥷 “To know your enemy, you must become your enemy.” — Sun Tzu
-    (Essential wisdom — on and off the network)
+## 🚀 Projects
 
-🚀 Projects
+### 🛡️ Linux Hardening Suite
 
-🛡️ Linux Hardening Suite
+A collection of Python scripts designed to improve **Lynis audit scores** and lock down Linux servers (tested on Linode).
 
-A collection of Python scripts designed to improve Lynis audit scores and lock down Linux servers (tested on Linode).
 Includes:
 
-    Antivirus setup
+- Antivirus setup  
+- SSH and sysctl hardening  
+- GRUB protection  
+- Kernel module restrictions  
+- Firewall configuration (UFW)  
+- File permission lockdown  
 
-    SSH and sysctl hardening
+---
 
-    GRUB protection
+### 🕹️ NEAT AI Agent for Swing Copters
 
-    Kernel module restrictions
+An AI agent built with **NEAT (NeuroEvolution of Augmenting Topologies)** in Python.
 
-    Firewall configuration (UFW)
+- Learns to play Swing Copters on its own  
+- A fun dive into machine learning through games  
 
-    File permission lockdown
+---
 
-🕹️ NEAT AI Agent for Swing Copters
+### 🎮 G.A.M.E. (Capstone Project)
 
-An AI agent built with NEAT (NeuroEvolution of Augmenting Topologies) in Python.
-Learns to play Swing Copters on its own — a fun dive into machine learning through games.
-🎮 G.A.M.E. (Capstone Project)
+A **JavaScript-based game** developed during a collaborative FSU capstone project.
 
-A JavaScript-based game developed during a collaborative FSU capstone project.
 Focused on:
 
-    Game mechanics
+- Game mechanics  
+- Team coordination  
+- Endurance under deadlines  
 
-    Team coordination
+---
 
-    Endurance under deadlines
+### 🧰 Unix Tools Scripts
 
-🧰 Unix Tools Scripts
+A set of **Bash and Perl utilities** created as part of a Unix Tools course.
 
-A set of Bash and Perl utilities created as part of a Unix Tools course.
 Includes:
 
-    File management scripts
-
-    Text processing tools
-
-    Custom calendar, phonebook, and plotting scripts
+- File management scripts  
+- Text processing tools  
+- Custom calendar, phonebook, and plotting scripts  
