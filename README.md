@@ -51,6 +51,7 @@ Open to collaborations on:
     (Essential wisdom — on and off the network)
 
 🚀 Projects (Available on GitHub)
+
 🛡️ Linux Hardening Suite
 
 A collection of Python scripts designed to improve Lynis audit scores and lock down Linux servers (tested on Linode).
