@@ -87,14 +87,14 @@ Includes:
 
 ---
 
-### 🌐 [Campus Network Config](https://github.com/Blake-Barth/Campus-Network-Config) *(In Progress)*
+### 🌐 [Campus Network Config](https://github.com/Blake-Barth/Campus-Network-Config)
 
-Simulated Cisco Packet Tracer configurations for a small campus network.
+Cisco Packet Tracer simulations for a small campus network.
 
 Features:
 
 - VLANs, trunking, and inter-VLAN routing  
-- Switch and router setup  
+- Switch and router configuration  
 - Static and dynamic routing (EIGRP, OSPF)  
 
 ---
