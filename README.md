@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Blake Barth
 
-Welcome to my GitHub profile! I'm a **Networking and IT enthusiast** with a passion for automating the hard stuff and diving deep into **Linux internals** and **security**.
+Welcome to my GitHub profile! I'm a **Networking and IT enthusiast** with a passion for automating the hard stuff and diving deep into **Linux**.
 
 ---
 
