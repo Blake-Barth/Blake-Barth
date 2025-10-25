@@ -32,7 +32,3 @@
 ### 📫 Connect with Me
 [💼 LinkedIn](https://www.linkedin.com/in/Blake-Barth)  
 📧 **blakebarth@proton.me**  
-
----
-
-⭐ *“Automate the routine. Secure the critical. Connect everything.”*  
