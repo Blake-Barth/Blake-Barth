@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Blake Barth  
 
 💻 **IT Technician @ [Centre Technologies](https://www.centretechnologies.com/)** (Houston, TX)  
+🎓 **B.S. in Computer Science – Florida State University**  
 🌐 **Aspiring Networking Professional** | Focused on **Network Foundations**, **SD-WAN**, and **Automation**
 
 ---
