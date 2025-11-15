@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Blake Barth  
 
-<!--
-**Blake-Barth/Blake-Barth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **IT Technician @ Centre Technologies**  
+🎓 **B.S. in Computer Science – Florida State University**  
+🔐 **Security+ Certified | CCNA Certified | CCNP/CCIE in Progress**
 
-Here are some ideas to get you started:
+I’m a **networking-focused IT professional** with strong interests in enterprise infrastructure, automation, and modern network engineering practices. I enjoy building networks, solving complex routing and switching problems, and understanding *why* protocols behave the way they do. I’m always excited to connect with other networking professionals and learn from the broader engineering community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Focused On
+- Advancing through **Cisco certifications** (CCNA → CCNP → CCIE)  
+- Strengthening my expertise in **routing, switching, and enterprise architectures**  
+- Automating configuration, verification, and monitoring tasks  
+
+---
+
+## 🧰 Skills & Technologies
+**Networking:** Cisco IOS, EIGRP, OSPF, BGP, VLANs, STP, VPNs  
+**Automation:** Python, Ansible, REST APIs  
+**Version Control:** Git, GitHub  
+
+---
+
+## 🔧 Projects I’m Working On
+- **CCIE Lab Library:** Reproducing, documenting, and expanding on CCIE-level labs inspired by Narbik Kocharians’ *CCIE Enterprise Infrastructure Foundation*  
+
+---
+
+## 📫 Let’s Connect
+🔗 **LinkedIn:** https://www.linkedin.com/in/Blake-Barth  
+📧 **Email:** blakebarth@proton.me  
+💻 **GitHub:** https://github.com/Blake-Barth
