@@ -11,6 +11,7 @@ I’m a **networking-focused IT professional** with strong interests in enterpri
 ## 🚀 What I’m Focused On
 - Advancing through **Cisco certifications** (CCNA → CCNP → CCIE)  
 - Strengthening my expertise in **routing, switching, and enterprise architectures**  
+- Learning from industry-leading training resources, including **Narbik Kocharians’ CCIE Enterprise Infrastructure Foundation** and **CBT Nuggets Content**  
 - Automating configuration, verification, and monitoring tasks  
 
 ---
@@ -23,7 +24,7 @@ I’m a **networking-focused IT professional** with strong interests in enterpri
 ---
 
 ## 🔧 Projects I’m Working On
-- **CCIE Lab Library:** Reproducing, documenting, and expanding on CCIE-level labs inspired by Narbik Kocharians’ *CCIE Enterprise Infrastructure Foundation*  
+- **CCIE Lab Library:** Reproducing, documenting, and expanding on CCIE-level labs  
 
 ---
 
