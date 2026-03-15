@@ -6,12 +6,12 @@
 
 ## 🚀 Active Certification Tracks
 
-| Path | Current Status | Target |
-| :--- | :--- | :--- |
-| **Enterprise Infrastructure** | **CCNA Certified** | CCNP Enterprise $\rightarrow$ CCIE Enterprise |
-| **Network Automation** | DevNet Specialist | CCNP Automation $\rightarrow$ CCIE Automation |
-| **Hybrid Cloud** | **AZ-104 & AZ-700 Certified** |
-| **Linux Administration** | RHCSA $\rightarrow$ RHCE |
+| Path | Current Status & Target |
+| :--- | :--- |
+| **Enterprise Infrastructure** | **CCNA Certified** $\rightarrow$ CCNP Enterprise $\rightarrow$ CCIE Enterprise |
+| **Network Automation** | DevNet Specialist Candidate $\rightarrow$ CCNP Automation $\rightarrow$ CCIE Automation |
+| **Linux Administration** | RHCSA Candidate $\rightarrow$ RHCE |
+| **Cloud Networking** | **AZ-104 Certified** $\rightarrow$ **AZ-700 Certified** |
 
 ---
 
