@@ -8,10 +8,10 @@
 
 | Path | Current Status & Target |
 | :--- | :--- |
-| **Enterprise Infrastructure** | **CCNA Certified** $\rightarrow$ CCNP Enterprise $\rightarrow$ CCIE Enterprise |
-| **Network Automation** | DevNet Specialist Candidate $\rightarrow$ CCNP Automation $\rightarrow$ CCIE Automation |
-| **Linux Administration** | RHCSA Candidate $\rightarrow$ RHCE |
-| **Cloud Networking** | **AZ-104 Certified** $\rightarrow$ **AZ-700 Certified** |
+| **Enterprise Infrastructure** | ✅ **CCNA Certified** $\rightarrow$ 🎯 CCNP Enterprise $\rightarrow$ 🎯 CCIE Enterprise |
+| **Network Automation** | 🎯 DevNet Specialist Candidate $\rightarrow$ 🎯CCNP Automation $\rightarrow$ 🎯 CCIE Automation |
+| **Linux Administration** | 🎯 RHCSA Candidate $\rightarrow$ 🎯 RHCE |
+| **Cloud Networking** | ✅ **AZ-104 Certified** $\rightarrow$ ✅ **AZ-700 Certified** |
 
 ---
 
