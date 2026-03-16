@@ -43,7 +43,7 @@ A repository dedicated to high-repetition configuration practice with an emphasi
 
 ## 🧰 Technical Arsenal
 * **Routing/Switching:** BGP, OSPF, EIGRP, STP, VLANs, VXLAN
-* **Cloud & Virtualization:** Azure, HyperV,EVE-NG
+* **Cloud & Virtualization:** Azure, HyperV, EVE-NG
 * **Automation & Dev:** Python, Ansible, Git, Linux
 
 ---
