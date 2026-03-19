@@ -2,19 +2,6 @@
 
 💼 **IT Support @ Centre Technologies** 🎓 **B.S. in Computer Science – Florida State University** 📜 **AZ-104 & AZ-700 Certified | CCNA | Security+** I am a networking professional focused on **Enterprise Infrastructure, Hybrid-Cloud Architecture, and Network Programmability.** My work centers on building resilient, automated environments and deeply labbing protocols to understand exactly how and why they behave the way they do.
 
----
-
-## 🚀 Active Certification Tracks
-
-| Path | Current Status & Target |
-| :--- | :--- |
-| **Enterprise Infrastructure** | ✅ **CCNA Certified** $\rightarrow$ 🎯 CCNP Enterprise $\rightarrow$ 🎯 CCIE Enterprise |
-| **Network Automation** | 🎯 DevNet Specialist Candidate $\rightarrow$ 🎯 CCNP Automation $\rightarrow$ 🎯 CCIE Automation |
-| **Linux Administration** | 🎯 RHCSA Candidate $\rightarrow$ 🎯 RHCE |
-| **Cloud Networking** | ✅ **AZ-104 Certified** $\rightarrow$ ✅ **AZ-700 Certified** |
-
----
-
 ## 🔧 Featured Projects & Repositories
 
 ### 🌐 [Azure-Colo-Home-Interconnect](https://github.com/Blake-Barth/Azure-Colo-Home-Interconnect)
