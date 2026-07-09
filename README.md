@@ -12,20 +12,6 @@ A "Hybrid-Mesh" architectural project connecting **Azure, a Colocation Data Cent
 A repository dedicated to **repetitive configuration practice with virtualized Cisco routers and switches.**
 * **Focus:** Demonstrating hands-on mastery of necessary protocols, including **STP, OSPF (v2/v3), EIGRP Named Mode, BGP, and MPLS.**
 * **Methodology:** Utilizing **EVE-NG** to create **replicable configuration files** and verification documentation.
-
-### 🤖 [Cisco-Automation-Labs](https://github.com/Blake-Barth/Cisco-Automation-Labs)
-Focused on the intersection of networking and code, specifically targeting enterprise-scale programmability and rapid deployment.
-* **Frameworks:** Nornir, Ansible.
-* **Libraries & Protocols:** Scrapli, Netmiko, NAPALM, NETCONF, RESTCONF.
-* **Focus:** Automating configuration backups, state verification, and rapid deployment of VLAN/IP schemes.
-* **Methodology:** Utilizing **EVE-NG** to simulate **Out-of-Band (OOB) Management** architectures, pushing automation scripts and configurations to virtualized nodes.
-
-### 🔌 [Multi-Vendor-Config-Labs](https://github.com/Blake-Barth/Multi-Vendor-Config-Labs)
-A repository dedicated to high-repetition configuration practice with an emphasis on **learning and mastering diverse vendor platforms.**
-* **Platforms:** Deep-dives into **Cisco IOS, Juniper JunOS, and Arista EOS.**
-* **Focus:** Expanding beyond a single-vendor mindset to understand how industry leaders implement RFC standards and proprietary features differently.
-* **Methodology:** Building multi-NOS topologies in **EVE-NG** to compare CLI workflows and troubleshooting logic across the enterprise landscape.
-
 ---
 
 ## 🧰 Technical Arsenal
